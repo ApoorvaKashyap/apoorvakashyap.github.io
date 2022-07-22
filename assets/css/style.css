@@ -1892,3 +1892,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 .por-dates {
   float: right;
 }
+
+.lang-logo {
+  display: inline-block;
+  max-width: 32px;
+  max-height: 32px;
+  align-self: right;
+}
