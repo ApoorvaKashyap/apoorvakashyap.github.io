@@ -157,3 +157,22 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+
+// // About Me
+// let requests = new XMLHttpRequest();
+// let data = new String();
+// requests.open('GET', 'https://apoorvakashyap.pythonanywhere.com/portfolio/api/v1/about/');
+// requests.onload = function() {
+//   data = JSON.parse(this.response)
+//   console.log(data)
+// };
+// requests.send();
+// // setTimeout(()=>{
+// //   if (requests.statusText !== "OK") {
+// //     alert("Operation Timed Out");
+// //   }
+// //   else 
+// //     document.getElementById('about').innerHTML = data; 
+// // }, 330000);
+// document.getElementById('about').innerHTML = data
