@@ -1,10 +1,4 @@
-# Portfolio
+# Apoorva Kashyap | Portfolio
 
-
-## About <a name = "about"></a>
-
-My portfolio website.<br>
-Made with Pelican using the Flex theme.<br>
-&copy;2022.
-
-
+Made with Hugo using the [Hugo Profile](https://github.com/gurusabarish/hugo-profile) theme.
+CC BY-SA 4.0
