@@ -17,7 +17,7 @@ languages:
         - identifier: papers
           name: Publications
           title: Publications
-          url: /#papers
+          url: https://apoorvakashyap.github.io/musings/papers
           weight: 0
         - identifier: blog
           name: Blog
