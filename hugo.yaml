@@ -24,7 +24,7 @@ languages:
           title: Blog posts
           url: https://apoorvakashyap.github.io/musings
           weight: 1
-        
+
 outputs:
   home:
     - "HTML"
@@ -62,8 +62,8 @@ params:
   customCSS: true
 
   # theme:
-    # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+  # disableThemeToggle: true
+  # defaultTheme: "light" # dark
 
   font:
     fontSize: 1rem
@@ -79,8 +79,8 @@ params:
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     enableSeparator: true
     menus:
       disableAbout: false
@@ -212,7 +212,7 @@ params:
           - "PyTorch"
         links:
           - icon: fab fa-github
-            url: "#"
+            url: "https://github.com/ApoorvaKashyap/cinerec"
 
       - title: Batch Event Processor
         content: A scalable Kubernetes-native batch processing system using Python, Argo Workflows, and Kubernetes for event-driven data aggregation. Containerised microservices with PostgreSQL for processing event data in batches.
@@ -256,7 +256,7 @@ params:
     socialNetworks:
       github: https://github.com/ApoorvaKashyap
       linkedin: https://linkedin.com/in/apoorvakashyap54
-      gmail: mailto:apoorvakashyap54@gmail.com  
+      gmail: mailto:apoorvakashyap54@gmail.com
 
   # List pages like blogs and posts
   listPages:
